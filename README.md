@@ -1,32 +1,34 @@
-{{𝗠𝗢𝗡𝗜𝗥𝗨𝗭𝗭𝗔𝗠𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
-{{𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛}}{{{{𝗣𝗬𝗧𝗛𝗢𝗡 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/MONIR100) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/{{𝗠𝗢𝗡𝗜𝗥𝗨𝗭𝗭𝗔𝗠𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
+<h3 align="center">
 
-# 💻 Tech Stack:{{𝗠𝗢𝗡𝗜𝗥𝗨𝗭𝗭𝗔𝗠𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
-# 📊 GitHub Stats:{{𝗠𝗢𝗡𝗜𝗥𝗨𝗭𝗭𝗔𝗠𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
-![](https://github-readme-stats.vercel.app/api?username=MONIR100&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MONIR100&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MONIR100&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-## 🏆 GitHub Trophies{{𝗠𝗢𝗡𝗜𝗥𝗨𝗭𝗭𝗔𝗠𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
-![](https://github-profile-trophy.vercel.app/?username=MONIR100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+&nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
 
-### ✍️ Random Dev Quote{{𝗠𝗢𝗡𝗜𝗥𝗨𝗭𝗭𝗔𝗠𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-### 🔝 Top Contributed Repo{{𝗠𝗢𝗡𝗜𝗥𝗨𝗭𝗭𝗔𝗠𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
-![](https://github-contributor-stats.{{𝗠𝗢𝗡𝗜𝗥𝗨𝗭𝗭𝗔𝗠𝗔𝗡}}vercel.app/api?username=MONIR100&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</h3>
 
-### 😂 Random Dev Meme{{𝗠𝗢𝗡𝗜𝗥𝗨𝗭𝗭𝗔𝗠𝗔𝗡}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
-<img src="https://rm.up.railway.app/" width="512px"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+PICCI-𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
 
----
-[![](https://visitcount.itsvg.in/api?id=MONIR100&icon=0&color=0)](https://visitcount.itsvg.in)
+𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://profile-counter.glitch.me/𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER/count.svg" />
+
+</p>
+
+- ![Alt text](https://github.com/𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-CODER/𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-CODER/raw/main/Developer.gif)
+
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
 
-𝚅
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+
+<a href="https://github.com/𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER&theme=monokai"></a>
+
+
+![𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER's GitHub stats](https://github-readme-stats.vercel.app/api?username=𝗘𝗛𝗖 𝗠𝗢𝗡𝗜𝗥-404-CYBER&show_icons=true&theme=chartreuse-dark)  
+
+![𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER&theme=radical)
+
