@@ -10,25 +10,25 @@
 
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+PICCI-𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+PICCI-EHC MONIR+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+EHC MONIR-404-CYBER+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
-<img src="https://profile-counter.glitch.me/𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER/count.svg" />
+<img src="https://profile-counter.glitch.me/EHC MONIR-404-CYBER/count.svg" />
 
 </p>
 
-- ![Alt text](https://github.com/𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-CODER/𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-CODER/raw/main/Developer.gif)
+- ![Alt text](https://github.com/ MONIR-CODER/ MONIR-CODER/raw/main/Developer.gif)
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-<a href="https://github.com/𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER&theme=monokai"></a>
+<a href="https://github.com/EHC MONIR-404-CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=EHC MONIR-404-CYBER&theme=monokai"></a>
 
 
-![𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER's GitHub stats](https://github-readme-stats.vercel.app/api?username=𝗘𝗛𝗖 𝗠𝗢𝗡𝗜𝗥-404-CYBER&show_icons=true&theme=chartreuse-dark)  
+![EHC MONIR-404-CYBER's GitHub stats](https://github-readme-stats.vercel.app/api?username=EHC MONIR-404-CYBER&show_icons=true&theme=chartreuse-dark)  
 
-![𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=𝗘𝗛𝗖.𝗠𝗢𝗡𝗜𝗥-404-CYBER&theme=radical)
+![EHC MONIR-404-CYBER GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EHC MONIR-404-CYBER&theme=radical)
 
